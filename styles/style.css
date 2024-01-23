@@ -276,6 +276,11 @@ line-height: 19.2px; /* 120% */
 
   }
 
+  .no-bullet {
+    list-style-type: none;
+
+  }
+
   .footer {
     padding: 20px;
     display: flex;
