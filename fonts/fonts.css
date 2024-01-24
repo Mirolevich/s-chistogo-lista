@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'EB Garamond Medium';
+    font-family: 'EB Garamond';
     font-style: normal;
 	  font-weight: 500;
     src:
@@ -14,7 +14,7 @@
   }  
   
   @font-face {
-    font-family: 'EB Garamond Regular';
+    font-family: 'EB Garamond';
     font-style: normal;
 	  font-weight: 400;
     src:
@@ -27,7 +27,7 @@
   }
 
   @font-face {
-    font-family: 'Inter Regular';
+    font-family: 'Inter';
     font-style: normal;
 	  font-weight: 400;
     src:
@@ -41,7 +41,7 @@
   }    
 
   @font-face {
-    font-family: 'Inter Bold';
+    font-family: 'Inter';
     font-style: normal;
 	  font-weight: 700;
     src:
